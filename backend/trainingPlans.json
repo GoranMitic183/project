@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Hipertrophy program",
+    "description": "4 weeks hipertrophy training with all big 3 lifts and many more exercise.",
+    "price": "39.99",
+    "program": [
+      {
+        "w1": [
+          {
+            "mon": "legs"
+          },
+          {
+            "wed": "push"
+          },
+          {
+            "fri": "pull"
+          },
+          {
+            "sun": "legs"
+          }
+        ],
+        "w2": [
+          {
+            "mon": "arms"
+          },
+          {
+            "wed": "push"
+          },
+          {
+            "fri": "pull"
+          },
+          {
+            "sun": "legs"
+          }
+        ],
+        "w3": [
+          {
+            "mon": "push"
+          },
+          {
+            "wed": "pull"
+          },
+          {
+            "fri": "legs"
+          },
+          {
+            "sun": "push"
+          }
+        ],
+        "w4": [
+          {
+            "mon": "pull"
+          },
+          {
+            "wed": "legs"
+          },
+          {
+            "fri": "push"
+          },
+          {
+            "sun": "arms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Weight loss program",
+    "description": "4 weeks weight loss program with diet and online consultation with personal trainer.",
+    "price": "49.99"
+  },
+  {
+    "title": "Strength and conditioning program.",
+    "description": "4 weeks strength and conditioning program with diet for profesional athletes to emprove their overall performance.",
+    "price": "59.99"
+  }
+]
